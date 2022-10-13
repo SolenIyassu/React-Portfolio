@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.ee32c164.css",
+    "main.js": "/React-Portfolio/static/js/main.acbe196c.js",
+    "static/js/787.16e465e3.chunk.js": "/React-Portfolio/static/js/787.16e465e3.chunk.js",
+    "static/media/Nuroute.png": "/React-Portfolio/static/media/Nuroute.c4f2889d452b98f349ad.png",
+    "static/media/KnowledgeBase.png": "/React-Portfolio/static/media/KnowledgeBase.a84ff4afba6d856eee4f.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.ee32c164.css.map": "/React-Portfolio/static/css/main.ee32c164.css.map",
+    "main.acbe196c.js.map": "/React-Portfolio/static/js/main.acbe196c.js.map",
+    "787.16e465e3.chunk.js.map": "/React-Portfolio/static/js/787.16e465e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee32c164.css",
+    "static/js/main.acbe196c.js"
+  ]
+}
